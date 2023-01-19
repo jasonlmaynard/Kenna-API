@@ -10,4 +10,7 @@ Complete walkthrough can be found here: In this video we will leverage the Cisco
 In this video we will leverage the API to create a script to pull a specific assets list of vulnerabilities. 
 https://youtu.be/ojDI8n3Enyw 
 
+**audit_log.sh** Cisco Kenna: API: Pulling Audit Logg
+In this video we will investigate the Kenna API and create a script to pull donw the audit log based on a time range. 
+https://youtu.be/UB-pt6Fj_l
 
